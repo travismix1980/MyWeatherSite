@@ -14,7 +14,8 @@
                 <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a></p>
             <hr />
             <br />
-            Welcome to my site! I will have a Weather page built soon!</div>
+            Welcome to my site! I will have a Weather page built soon!
+        </div>
     </form>
 </body>
 </html>

@@ -14,6 +14,13 @@
             <p>
                 <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a></p>
             <hr />
+            <br />
+            Enter your zip code:
+            <asp:TextBox ID="zipcodeTextBox" runat="server"></asp:TextBox>
+            <br />
+            <asp:Button ID="getForecastButton" runat="server" OnClick="getForecastButton_Click" Text="Get Forecast" />
+            <br />
+            <asp:Label ID="forecastLabel" runat="server"></asp:Label>
         </div>
     </form>
 </body>
