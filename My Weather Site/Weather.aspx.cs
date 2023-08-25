@@ -25,7 +25,8 @@ namespace My_Weather_Site
             if (val == 0)
             {
                 forecast = "warm and sunny.";
-            }else if (val == 1)
+            }
+            else if (val == 1)
             {
                 forecast = "cold and windy.";
             }

@@ -11,10 +11,13 @@
         <div>
             <h1>Welcome to my Homepage</h1>
             <p>
-                <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a></p>
+                <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a>
+            </p>
             <hr />
             <br />
-            Welcome to my site! I will have a Weather page built soon!
+            <p>
+                Welcome to my site! I will have a Weather page built soon!
+            </p>
         </div>
     </form>
 </body>

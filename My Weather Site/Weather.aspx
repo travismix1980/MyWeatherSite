@@ -9,10 +9,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>
-                Weather</h1>
+            <h1>Weather</h1>
             <p>
-                <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a></p>
+                <a href="Index.aspx">Home</a> | <a href="Weather.aspx">Weather</a>
+            </p>
             <hr />
             <br />
             Enter your zip code:
